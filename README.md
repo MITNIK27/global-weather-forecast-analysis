@@ -46,7 +46,7 @@ This project focuses on forecasting global weather trends using advanced data sc
 ## 🚀 How to Run the Project
 1. **Clone the repository:**
    ```bash
-   git clone <repository-link>
+   git clone https://github.com/MITNIK27/global-weather-forecast-analysis.git
 2. **Install required packages:**
    ```bash
    pip install -r requirements.txt
