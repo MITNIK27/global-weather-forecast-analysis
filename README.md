@@ -52,9 +52,9 @@ This project focuses on forecasting global weather trends using advanced data sc
    pip install -r requirements.txt
 3.Run the Jupyter Notebook to execute analyses and models.
 
-##📄 Conclusion
-This project effectively demonstrates advanced data science skills, from data cleaning and exploration to model building and evaluation. The insights derived provide a strong foundation for understanding global weather trends and their environmental impacts.
-##📞 Contact
+## 📄 Conclusion
+   This project effectively demonstrates advanced data science skills, from data cleaning and exploration to model building      and evaluation. The insights derived provide a strong foundation for understanding global weather trends and their            environmental impacts.
+## 📞 Contact
 For any queries, please contact:
-Paarth Sahni
-paarthsahni112@gmail.com
+- Paarth Sahni
+- paarthsahni112@gmail.com
